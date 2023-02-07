@@ -1,0 +1,214 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+    padding: 40px;
+}
+
+.fullpage {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 50px;
+    background-color: #ffffff;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.h3-titles {
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    color: black;
+    margin: 0 0 8px 0;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.maininfo {
+    padding-left: 88px;
+}
+
+.profession {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+    margin: 0 0 18px 0;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.company {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.job-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.date-title {
+    margin: 0;
+    padding: 0;
+    color: lightgrey;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 12px 0 8px 0;
+}
+
+.NUM {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.NUMM {
+    color: blue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin: 0 0 28px 0;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.desc {
+    width: 525px;
+}
+
+.aboutme {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.projects {
+    padding-left: 88px;
+    margin-bottom: 88px;
+    margin-top: 54px;
+}
+
+.project-li {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: none;
+    color: black;
+    font-weight: bold;
+}
+
+.experience {
+    padding-left: 88px;
+    margin-bottom: 44px;
+}
+
+.main-ul {
+    padding-left: 18px;
+    margin: 0;
+}
+
+.main-ol {
+    padding-left: 18px;
+    margin: 0;
+}
+
+.span-dots {
+    color: lightslategray;
+    font-weight: bold;
+    margin: 0;
+}
+
+.main-li-text {
+    color: lightslategray;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.education {
+    padding-left: 88px;
+    
+}
+
+aside {
+    background-color: lightgray;
+    padding-top: 50px;
+    border-radius: 15px;
+}
+
+.ContactsLetter {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    margin-right: 3px;
+}
+
+.CP {
+    margin: 0px;
+}
+
+.ContactsNumber {
+    font-size: 14px;
+    font-weight: 400px;
+    font-style: normal;
+    line-height: 24px;
+    color: black;
+
+}
+
+.ContactsEmail {
+    font-size: 14px;
+    font-weight: 400px;
+    font-style: normal;
+    line-height: 24px;
+    color: violet;
+
+}
+
+.Contacts, .TechSkills, .SoftSkills {
+    margin: 48px 0 0 40px;
+}
+
+.aside-ul-list {
+    margin: 0;
+    padding-left: 18px;
+}
+
+.aside-li-list {
+    color: lightpink;
+}
+
+.aside-li-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;   
+}
+
+@media (max-width: 700px) {
+aside {
+    display: block;
+}
+
+} 
+
+
